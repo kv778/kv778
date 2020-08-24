@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-## I am Kartikeya Vishnoi, an undergrad student pursuing a BTech in Computer Engineering. I love using cutting edge tech to solve everyday problems and to automate the boring stuff.
+## I'm Kartikeya Vishnoi, an undergrad student pursuing a BTech in Computer Engineering. I love using cutting edge tech to solve everyday problems and to automate the boring stuff.
 
 ## My current domains of interest are:
 ### > Deep Learning
