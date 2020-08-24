@@ -8,6 +8,9 @@
 ### > Flutter for app development
 
 ### I'm a firm advocate of OpenSource software, and hence all of my projects are OpenSource and freely accessible by everyone.
+
+## *Any fool can write code that a computer can understand. Good programmers write code that humans can understand*
+
 <!--
 **kv778/kv778** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
