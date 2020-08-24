@@ -5,7 +5,7 @@
 ## My current domains of interest are:
 ### > Deep Learning
 ### > InfoSec
-### > Flutter for app development
+### > Flutter for App Development
 
 ## I'm a firm advocate of OpenSource software, and hence all of my projects are OpenSource and freely accessible by everyone.
 
