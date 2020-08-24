@@ -1,4 +1,4 @@
-### Hey there! 👋
+## Hey there! 👋
 
 ### I am Kartikeya Vishnoi, an undergrad student pursuing a BTech in Computer Engineering. I love using cutting edge tech to solve everyday problems and to automate the boring stuff.
 
