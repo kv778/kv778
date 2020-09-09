@@ -7,7 +7,7 @@
 ### > InfoSec
 ### > Flutter for App Development
 
-## I'm a firm advocate of OpenSource software, and hence all of my projects are OpenSource and freely accessible by everyone.
+## I'm a firm advocate of Open Source software, and all of my projects are Open Source and freely accessible by everyone.
 
 ## *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand" - Martin Fowler*
 
