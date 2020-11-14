@@ -1,4 +1,4 @@
-# Hey there! 👋
+# Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ## I'm Kartikeya Vishnoi, an undergrad student pursuing a BTech in Computer Engineering. I spend my free time either making stuff, or breaking into stuff.
 
