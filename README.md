@@ -18,7 +18,7 @@
 ## You can find me on 
   
 <a href="https://www.linkedin.com/in/kartikeya-vishnoi-732113198/">
-  <img align="left" alt="Kartikeya's LinkedIN" width="40px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
+  <img align="left" alt="Kartikeya's LinkedIN" width="55px" src="https://img.icons8.com/fluent/48/000000/linkedin.png" />
 </a>
 
 <a href="https://twitter.com/kartikvishnoi_">
