@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://twitter.com/kartikvishnoi_">
-  <img align="left" alt="Kartikeya Vishnoi | Twitter" width="40px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
+  <img align="left" alt="Kartikeya Vishnoi | Twitter" width="55px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />
 </a> 
 
 <!--
