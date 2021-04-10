@@ -3,9 +3,9 @@
 ## I'm Kartikeya Vishnoi, an undergrad student pursuing a BTech in Computer Engineering. I spend my free time either making stuff, or breaking into stuff.
 
 ## My current domains of interest are:
-### > Deep Learning
+### > Flutter Development
 ### > InfoSec
-### > Flutter for App Development
+### > Deep Learning
 
 ## I'm a firm advocate of Open Source software, and all of my projects are Open Source and freely accessible by everyone.
 
