@@ -1,16 +1,12 @@
 # Hey there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-## I'm Kartikeya Vishnoi, an undergrad student pursuing a BTech in Computer Engineering. I spend my free time either making stuff, or breaking into stuff.
+## I'm Kartikeya Vishnoi, a data analyst using R/SQL for my day job
 
 ## My current domains of interest are:
-### > Flutter Development
-### > InfoSec
-### > Deep Learning
+### > Flutter Dev using Dart
+### > Game Dev using C++
 
 ## I'm a firm advocate of Open Source software, and all of my projects are Open Source and freely accessible by everyone.
-
-## *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand" - Martin Fowler*
-
 
 ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=kv778&show_icons=true&theme=radical)
 
